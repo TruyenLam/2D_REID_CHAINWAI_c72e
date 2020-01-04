@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><string-array name="arrayTagType">
+    <item>default</item>
+    <item>ASCII</item>
+    <item>GB2312</item>
+    <item>UTF-8</item>
+    <item>Unicode</item>
+    <item>GBK</item>
+    <item>GB18030</item>
+</string-array></resources>
